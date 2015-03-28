@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
+#import "ViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
@@ -19,6 +20,9 @@
 
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;
+
+@property (strong, nonatomic) ViewController *revealControllerMain;
+@property (strong, nonatomic) UITabBarController *tabBarController;
 
 
 @end
