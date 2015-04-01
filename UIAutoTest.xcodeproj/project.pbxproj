@@ -397,7 +397,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Blackloud Inc. (VFEC6728B4)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hu Phineas (3P53A698N7)";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -417,7 +417,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -439,7 +439,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Blackloud Inc. (VFEC6728B4)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hu Phineas (3P53A698N7)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -452,7 +452,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -462,11 +462,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Blackloud Inc. (VFEC6728B4)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hu Phineas (3P53A698N7)";
 				INFOPLIST_FILE = UIAutoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 			};
 			name = Debug;
 		};
@@ -474,11 +474,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Blackloud Inc. (VFEC6728B4)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hu Phineas (3P53A698N7)";
 				INFOPLIST_FILE = UIAutoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 			};
 			name = Release;
 		};
@@ -497,7 +497,7 @@
 				INFOPLIST_FILE = UIAutoTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIAutoTest.app/UIAutoTest";
 			};
 			name = Debug;
@@ -513,7 +513,7 @@
 				INFOPLIST_FILE = UIAutoTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
+				PROVISIONING_PROFILE = "d98b0407-f6cd-4d47-8660-fbe13bb669c8";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIAutoTest.app/UIAutoTest";
 			};
 			name = Release;
