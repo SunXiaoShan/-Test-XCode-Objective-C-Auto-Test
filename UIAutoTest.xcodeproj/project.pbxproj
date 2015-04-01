@@ -417,7 +417,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "33604b5e-4337-4d51-92a7-363665174346";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -452,7 +452,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "33604b5e-4337-4d51-92a7-363665174346";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -466,7 +466,7 @@
 				INFOPLIST_FILE = UIAutoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "33604b5e-4337-4d51-92a7-363665174346";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 			};
 			name = Debug;
 		};
@@ -478,7 +478,7 @@
 				INFOPLIST_FILE = UIAutoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "33604b5e-4337-4d51-92a7-363665174346";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 			};
 			name = Release;
 		};
@@ -497,6 +497,7 @@
 				INFOPLIST_FILE = UIAutoTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIAutoTest.app/UIAutoTest";
 			};
 			name = Debug;
@@ -512,6 +513,7 @@
 				INFOPLIST_FILE = UIAutoTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "793d2b81-f9e6-4f8e-a8b9-71cc15c0f8ec";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIAutoTest.app/UIAutoTest";
 			};
 			name = Release;
