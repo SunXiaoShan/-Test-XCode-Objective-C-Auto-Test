@@ -44,7 +44,7 @@ int test;
 
 - (void)testExample {
     // This is an example of a functional test case.
-    XCTAssert(YES, @"Pass");
+    XCTAssert(NO, @"Pass");
     NSLog(@"Hello World");
     NSLog(@"test log");
 }
