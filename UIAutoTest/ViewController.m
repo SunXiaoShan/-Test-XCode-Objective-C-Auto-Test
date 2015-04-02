@@ -51,6 +51,13 @@
     text.font = [UIFont systemFontOfSize:30];
     [self.view addSubview:text];
     text.accessibilityLabel = @"mainPageText";
+    
+    return;
+    UITextView *text1 = [[UITextView alloc] initWithFrame:CGRectMake(0, 100, 320, 400)];
+    [text1 setTextColor:[UIColor blackColor]];
+    text1.font = [UIFont systemFontOfSize:30];
+    [text1 setText:@"hello"];
+    [self.view addSubview:text1];
 }
 
 - (void) actionNextPage:(id)sender
