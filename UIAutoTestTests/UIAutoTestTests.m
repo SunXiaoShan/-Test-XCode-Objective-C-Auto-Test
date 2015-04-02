@@ -54,6 +54,9 @@ int test;
     XCTAssert(YES, @"Pass");
     NSLog(@"Hello World");
     NSLog(@"test log");
+    
+    
+    NSString *str = @"fefe";
 }
 
 - (void)testPerformanceExample {
